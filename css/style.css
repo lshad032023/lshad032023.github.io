@@ -215,6 +215,12 @@ img {
   align-items: center;
   justify-content: center;
   position: relative;
+  text-align: center;
+  padding: 1em 0;
+}
+
+.footer .p {
+    margin: 0 1em;
 }
 
 .footer a {
